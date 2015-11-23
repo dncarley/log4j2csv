@@ -1,0 +1,13 @@
+date,line_count,message_level,function,line
+2014-07-02 20:52:39,0,DEBUG,HelloExample,19
+2014-07-02 20:52:39,0,INFO,HelloExample,23
+2014-07-02 20:52:39,0,WARN,HelloExample,26
+2014-07-02 20:52:39,0,ERROR,HelloExample,27
+2014-07-02 20:52:39,0,FATAL,HelloExample,28
+2014-07-02 21:03:10,0,ERROR,HelloExample2,16
+2014-07-02 21:03:10,1,ERROR,-,-
+2014-07-02 21:03:10,2,ERROR,java,24
+2014-07-02 21:03:10,3,ERROR,java,14
+2014-07-02 20:52:39,0,DEBUG,HelloExample,19
+2014-07-02 20:52:39,0,INFO,HelloExample,23
+2014-07-02 20:52:39,0,WARN,HelloExample,26
